@@ -21,5 +21,5 @@ settings:
   langs: es-es,us-en,de-de,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: Documentación sobre la gestión del almacenamiento de la consola de NetApp
+  - title: Documentación sobre la gestión del almacenamiento de la NetApp Console
     url: "/index.html"

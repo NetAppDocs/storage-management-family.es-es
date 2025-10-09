@@ -1,13 +1,13 @@
 ---
 product-family:
-  title: Gestión del almacenamiento de la consola NetApp
-  lead: La consola de NetApp proporciona una gestión centralizada de los servicios
-    de almacenamiento y datos en entornos locales y multicloud.  Ofrece control unificado,
-    simplicidad operativa y gestión segura.  Busque por producto de almacenamiento
+  title: Gestión del almacenamiento de la NetApp Console
+  lead: La NetApp Console proporciona una gestión centralizada de los servicios de
+    almacenamiento y datos en entornos locales y multicloud. Ofrece control unificado,
+    simplicidad operativa y gestión segura. Busque por producto de almacenamiento
     o utilice la búsqueda.
-  summary: La consola de NetApp proporciona una gestión centralizada de los servicios
-    de almacenamiento y datos en entornos locales y multicloud.  Ofrece control unificado,
-    simplicidad operativa y gestión segura.  Busque por producto de almacenamiento
+  summary: La NetApp Console proporciona una gestión centralizada de los servicios
+    de almacenamiento y datos en entornos locales y multicloud. Ofrece control unificado,
+    simplicidad operativa y gestión segura. Busque por producto de almacenamiento
     o utilice la búsqueda.
   sidebarlinks:
   - title: Todo
@@ -19,9 +19,9 @@ product-family:
     tags: azure
   - title: Google Cloud
     tags: gcp
-  - title: Servicios de datos de NetApp
+  - title: NetApp Data Services
     tags: data services
-  - title: Consola de NetApp
+  - title: NetApp Console
     tags: console
   - title: En las instalaciones
     tags: on-prem
@@ -31,16 +31,16 @@ product-family:
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: Conozca las novedades en la gestión del almacenamiento de la consola
-      de NetApp y los servicios de datos de NetApp .
+    summary: Conozca las novedades en la gestión del almacenamiento de la NetApp Console
+      y los servicios de datos de NetApp .
     tags: all
-  - title: Administración de la consola de NetApp
+  - title: Administración de la NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Aprenda cómo comenzar a utilizar la consola de NetApp y administrar la
-      gestión de identidades y accesos, agentes y más.
+    summary: Aprenda cómo comenzar a utilizar la NetApp Console y administrar la gestión
+      de identidades y accesos, agentes y más.
     tags: all,console
-  - title: Servicios de datos de NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: Explore los servicios de datos de NetApp para proteger su infraestructura
@@ -96,13 +96,12 @@ product-family:
   - title: Keystone
     icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
-    summary: Acceda y administre su suscripción de Keystone desde la consola de NetApp
-      .
+    summary: Acceda y administre su suscripción de Keystone desde la NetApp Console.
     tags: all,subscriptions
   - title: Clústeres ONTAP locales
     icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
-    summary: Administre sus clústeres ONTAP locales desde la consola de NetApp utilizando
+    summary: Administre sus clústeres ONTAP locales desde la NetApp Console utilizando
       System Manager y los servicios de datos de NetApp .
     tags: all,on-prem
   - title: StorageGRID
