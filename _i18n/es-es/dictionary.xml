@@ -29,7 +29,6 @@
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Sistemas de la serie E</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Descubra los sistemas E-Series para obtener una vista completa de los datos en su multinube híbrida.</block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
-  <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Asegure, proteja y acelere su almacenamiento de archivos.</block>
   <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Almacenamiento en la nube de Google</block>
   <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">Descubre y administra los depósitos de Cloud Storage en tu cuenta de Google.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
@@ -39,4 +38,5 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">Administre sus sistemas StorageGRID .</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">Documentación sobre la gestión del almacenamiento de la consola de NetApp</block>
+  <block id="d24825ead411a6f92b29a5f05bd8ef33" category="sidebar">Servicio de almacenamiento de archivos de alto rendimiento en Google Cloud.</block>
 </blocks>
