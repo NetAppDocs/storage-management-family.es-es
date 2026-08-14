@@ -27,6 +27,8 @@ product-family:
     tags: on-prem
   - title: Suscripciones de almacenamiento
     tags: subscriptions
+  - title: Cargas de trabajo
+    tags: workloads
   tiles:
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
@@ -109,3 +111,9 @@ product-family:
     url: "../storage-management-storagegrid/index.html"
     summary: Administre sus sistemas StorageGRID .
     tags: all,on-prem
+  - title: Cargas de trabajo
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Automatiza el aprovisionamiento, la gobernanza y el ciclo de vida de
+      FSx for ONTAP. Explora el ahorro de costes y la gestión avanzada.
+    tags: all,workloads
